@@ -1,0 +1,1 @@
+# Porównywanie struktury katalogów
